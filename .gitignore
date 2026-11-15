@@ -1,0 +1,7 @@
+node_modules/
+raw/
+tools/.cache/
+.browser-profile/
+*.log
+# вопросы клиенту и заметки для продажи — не в публичный репозиторий
+README.md
